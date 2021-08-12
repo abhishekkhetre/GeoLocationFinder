@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: navy;
+  color: white;
+}
+#h{
+  margin-top: 8rem;
+  font-size: 40px;
+}
+#root {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .para{
+    margin: 5rem;
+    padding: 1rem;
+    border: 2px solid grey;
+    align-items: flex-start;
+    font-size: 50px;
+    font-family: cursive;
+    border-radius: 50px;
+  }
+  .para:hover{
+    cursor: pointer;
+    
+  }
+  .but{
+    width: 280px;
+    color: white;
+    font-size: 30px;
+    border: 2px black;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    /* margin-top: 3rem;
+    margin-left: 1rem; */
+    margin: 2rem 1rem;
+  }
+  .but:hover{
+    background-color: rgb(194, 0, 0);
+    cursor: pointer;
+  }
