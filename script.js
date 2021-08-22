@@ -1,4 +1,3 @@
-alert("Mini Project by ABHISHEK KHETRE");
 
 function funcy() {
   
